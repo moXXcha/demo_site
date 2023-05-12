@@ -2,7 +2,7 @@ import React from "react";
 import ProfileImage from "../atoms/profile/profileImage";
 import ProfileName from "../atoms/profile/profileName";
 import ProfileText from "../atoms/profile/profileText";
-import Image from "../../../../public/img/author.jpg";
+import Image from "../../../public/img/author.jpg";
 
 const Profile = () => {
   return (

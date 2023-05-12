@@ -1,13 +1,13 @@
-import React from 'react'
+import React from "react";
 
-import Footer from './components/organisums/footer'
+import Footer from "../components/organisums/footer";
 
 const test = () => {
   return (
     <div>
       <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default test
+export default test;

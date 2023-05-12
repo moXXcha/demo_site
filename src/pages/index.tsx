@@ -1,12 +1,12 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
-import Header from "./components/organisums/header";
-import Upper from "./components/organisums/upper";
-import Blogs from "./components/organisums/blogs";
-import Profile from "./components/moluculs/profile";
-import Ranking from "./components/organisums/ranking";
-import Archive from "./components/organisums/archive";
-import Footer from "./components/organisums/footer";
+import Header from "../components/organisums/header";
+import Upper from "../components/organisums/upper";
+import Blogs from "../components/organisums/blogs";
+import Profile from "../components/moluculs/profile";
+import Ranking from "../components/organisums/ranking";
+import Archive from "../components/organisums/archive";
+import Footer from "../components/organisums/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
